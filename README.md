@@ -19,3 +19,7 @@ print("Hello, World!")
     </body>
 </html>
 ```
+
+```js
+console.log("Hello, World!");
+```
