@@ -23,3 +23,9 @@ print("Hello, World!")
 ```js
 console.log("Hello, World!");
 ```
+
+```rust
+fn main() {
+    println!("{}", "Hello, Wolrd!");
+}
+```
