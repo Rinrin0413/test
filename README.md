@@ -1,7 +1,7 @@
 # Hello, World! ![GitHub repo size](https://img.shields.io/github/repo-size/Rinrin0413/test)
 贵樣,、暇た！
 
-test怪レい[近日公開 - COming soon]
+test怪レい[近日公開 - Coming soon]
 
 ---
 
