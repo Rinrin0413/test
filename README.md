@@ -1,6 +1,6 @@
 # Hello, World! ![GitHub repo size](https://img.shields.io/github/repo-size/Rinrin0413/test)
 贵樣,、暇た！
-困っだな
+困っだ！
 
 ---
 
