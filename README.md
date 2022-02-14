@@ -1,4 +1,4 @@
-# Hello, World! ![GitHub repo size](https://img.shields.io/github/repo-size/Rinrin0413/test)
+# Hello, World! ![Repo size](https://img.shields.io/github/repo-size/Rinrin0413/test)
 贵樣、睱た
 
 ---
