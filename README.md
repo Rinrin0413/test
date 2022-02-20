@@ -1,7 +1,7 @@
 # Hello, World! ![Repo Size](https://img.shields.io/github/repo-size/Rinrin0413/test)
 
 贵樣、睱た！!!  
-アサ匕ビㄦ(極度乾燥)
+アサ匕ビㄦ(極度乾燥)  
 そラたな
 
 ---
